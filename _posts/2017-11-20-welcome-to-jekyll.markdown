@@ -1,25 +1,15 @@
 ---
+title: Hola Mundo!!
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-11-20 18:36:51 -0600
+date: '2017-11-20 18:36:51 -0600'
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Mi nombre es Oscar, me gusta programar y la tecnología en general, este es un blog personal donde compartire notas, tuturiales, y algunas otras cosas mas, la plataforma sobre la que estoy publicando esto se llama `jekyll` y es interesante ya que te permite tener un blog basado en archivos etaticos, lo mejor de todo es que se integra con `github pages` por lo que no necesitas soltar ni un centavo en pagar un hosting. 
 
-Jekyll also offers powerful support for code snippets:
+Pronto estare publicando algo intersante. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Puedes revisar el proyecto en  [github][jekyll-gh] o ver la pagina oficial y la documentacion [aquí][jekyll-url].
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-url]: https://jekyllrb.com/
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
